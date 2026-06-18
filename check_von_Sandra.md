@@ -1,5 +1,5 @@
-Firma: AndersenLab GmbH, Ansprechpartner: Alexander Zak
-Firma: Energierversorger Leverkusen, Ansprechpartner: Patrick Schwermer
-Firma: Stadtwerke Gotha, Ansprechpartner: Daniel Grimmenstein
-Firma: Stadtwerke GroßGerau, Ansprechpartner: Uli Fuchs
-Firma: Telekom, Ansprechpartnner: Dennis Koperski 
+Firma: AndersenLab GmbH, Ansprechpartner: 
+Firma: Energierversorger Leverkusen, Ansprechpartner: 
+Firma: Stadtwerke Gotha, Ansprechpartner: 
+Firma: Stadtwerke GroßGerau, Ansprechpartner: 
+Firma: Telekom, Ansprechpartnner: 
